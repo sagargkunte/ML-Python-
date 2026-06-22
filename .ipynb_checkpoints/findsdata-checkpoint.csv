@@ -1,0 +1,6 @@
+Feature1,Degree,Language,Age,Target
+yes,masters,python,30,yes
+yes,bachelors,python,25,yes
+no,bachelors,java,28,no
+yes,masters,java,40,yes
+yes,masters,python,35,no
